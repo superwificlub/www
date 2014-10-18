@@ -24,6 +24,7 @@ ol, ul {
 }
 ol li {
   list-style-type: decimal;
+  margin-bottom: 10px;
 }
 
 ul li {
@@ -46,27 +47,8 @@ div.swc {
   width: 500px;
 }
 
-header {
-}
-
-main {
-}
-
-footer {
-  text-align: center;
-}
-
-footer p {
-  margin-bottom: 0;
-}
-
 h1 {
   font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 20px;
-}
-
-h2 {
   font-weight: 700;
   margin-bottom: 20px;
 }
